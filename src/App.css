@@ -226,33 +226,16 @@
   color: #29ad17;
 }
 
-@media screen and (min-width: 1px) and (max-width: 788px) {
-  #ello {
-    display: none;
-  }
-
-  .dragon {
-    text-transform: uppercase;
-  }
-  #marsh{
-  width: 70%;
-  margin-left: 5em;  
-  
-  }
-  #hell{
-    /* width: 100%; */
-    text-align: center;
-  }
-
-  #marsh h1{
-    text-align: center;
-  }
-
+#cv {
+  display: flex;
+  justify-content: center;
 }
 
-
-
-
+#about text {
+  color: #e2c430;
+  font-size: 1.3em;
+  font-weight: bolder;
+}
 
 #ello {
   font-size: 13em;

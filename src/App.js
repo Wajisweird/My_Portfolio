@@ -4,7 +4,7 @@ import First from "./components/First";
 import Third from "./components/Third";
 import Skills from "./components/Skills";
 import Achivement from "./components/Achivement";
-import Body from "./components/Body";
+import Info from "./components/Info";
 import ContactMe from "./components/ContactMe";
 import Footer from "./components/Footer";
 import Experience from "./components/Experience";
@@ -19,7 +19,7 @@ export default function App() {
     <div>
       <>
         <First />
-        <Body />
+        <Info />
         <Third />
         <Achivement />
         <Skills />
