@@ -11,7 +11,7 @@ export default function Skills() {
         <br />
         <br />
         <h2 className="dragon text-center">
-          Skills <i className="fa-solid fa-code" id="code"></i>
+          SKILLS <i className="fa-solid fa-code" id="code"></i>
         </h2>
       </div>
       <div className="container text-center" id="is">
