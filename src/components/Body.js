@@ -7,8 +7,8 @@ export default function Body() {
         <br />
         <h1 className="dots">.. ___________________</h1>
       </div>
-      <div className="row" id="marsh">
-        <div className=" col-7 my-5 ms-4 text-danger" id="hell">
+      <div className="container">
+        <div className="my-5 ms-4 text-danger text-center" id="hell">
           <br />
           <h1 className="dragon" data-aos="fade-left">
             About Me
@@ -23,9 +23,7 @@ export default function Body() {
             in investing my time and money in stock market.
           </p>
         </div>
-        <div className="col-4 text-warning text-center" id="ello">
-          <i className="fa-regular fa-user" data-aos="fade-left"></i>
-        </div>
+        <br />
       </div>
     </div>
   );
