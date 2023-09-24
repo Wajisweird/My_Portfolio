@@ -12,7 +12,7 @@ export default function Info() {
           <div className="col-7">
             <h1
               className="dragon text-center text-danger">
-              About Me
+              ABOUT ME
             </h1>
             <br />
             <p className="text-white-50" id="about" data-aos="fade-right">
@@ -30,7 +30,7 @@ export default function Info() {
               <br />
               <br />
               <br />
-              <text>Let's build something amazing together!</text>
+              <text>"Let's build something amazing together!"</text>
             </p>
           </div>
         </div>

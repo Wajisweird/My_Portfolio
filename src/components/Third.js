@@ -6,7 +6,7 @@ export default function Third() {
       <h1 className="container dots text-danger text-center">
         ___________________ ..
       </h1>
-      <h1 className="dragon text-danger text-center my-4">Education</h1>
+      <h1 className="dragon text-danger text-center my-4">EDUCTAION</h1>
       <div className="container" id="pe">
         <i className="fa-solid fa-graduation-cap" id="ac"></i>
         <h6 className="ms-4 my-2" id="dates">

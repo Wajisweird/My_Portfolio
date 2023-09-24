@@ -9,7 +9,7 @@ export default function Achivement() {
         <h1 className="dots">.. ___________________</h1>
         <br />
         <br />
-        <h2 className="text-center dragon text-danger">Certifications</h2>
+        <h2 className="text-center dragon text-danger">CERTIFICATION</h2>
       </div>
       <br />
       <div className="container text-center" id="ct">

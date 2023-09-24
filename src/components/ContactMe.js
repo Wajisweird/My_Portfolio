@@ -8,7 +8,7 @@ export default function ContactMe() {
         <h1 className="dots">___________________ ..</h1>
         <br />
         <br />
-        <h1 className="dragon text-center text-warning">Contact Me</h1>
+        <h1 className="dragon text-center text-warning">CONTACT ME</h1>
       </div>
       <br />
       <br />
