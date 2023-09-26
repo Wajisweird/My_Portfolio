@@ -53,14 +53,14 @@ export default function First() {
                 <a
                   href="/src/docs/Qazi Wajahat Hussain - CV.pdf"
                   download
-                  className="btn btn-danger"
+                  className="btn btn-outline-danger"
                   id="buttons"
                 >
                   Download CV
                 </a>
                 <a
                   href="#ContactBody"
-                  className="btn btn-outline-danger"
+                  className="btn btn-danger"
                   id="buttons"
                 >
                   Contact
