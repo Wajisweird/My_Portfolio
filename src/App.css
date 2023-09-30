@@ -4,6 +4,19 @@
   scroll-behavior: smooth;
 }
 
+/* Pre-Loader */
+
+#loading {
+  position: fixed;
+  width: 100%;
+  height: 100vh;
+  background: #fff url('/public//Infinityy.gif') no-repeat center;
+  z-index: 99999;
+}
+
+/* --------------------- */
+
+
 @font-face {
   font-family: bestermind;
   src: url(/public/BestermindRegular.ttf);
