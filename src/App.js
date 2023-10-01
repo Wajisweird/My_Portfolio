@@ -8,7 +8,7 @@ import Info from "./components/Info";
 import ContactMe from "./components/ContactMe";
 import Footer from "./components/Footer";
 import Experience from "./components/Experience";
-// import Projects from "./components/Projects";
+import Projects from "./components/Projects";
 
 export default function App() {
   const top = () => {
@@ -24,7 +24,7 @@ export default function App() {
         <Achivement />
         <Skills />
         <Experience />
-        {/* <Projects /> */}
+        <Projects />
         <ContactMe />
         {/* Bottom to Up Button */}
         <div className="container-fluid" id="topButton">
