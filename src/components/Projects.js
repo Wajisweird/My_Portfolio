@@ -13,7 +13,9 @@ export default function Projects() {
         <div className="row mt-5" data-aos="fade-up" id="sam">
           <div className="col-4 text-white">
             <div className="firstProject d-flex align-items-center justify-content-center">
+              <a href="https://nike-responsive-clone.vercel.app/" target="blank">
               <img src={Nike} alt="/" />
+              </a>
               <div className="overlay">
                 <a
                   href="https://nike-responsive-clone.vercel.app/"
@@ -23,7 +25,7 @@ export default function Projects() {
                   <br />
                   <p className="text-center">
                     Responsive Nike clone using React Js and CSS framework i.e
-                    Bootstrap 5.{" "}
+                    Bootstrap 5.
                   </p>
                 </a>
               </div>
