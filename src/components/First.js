@@ -51,12 +51,12 @@ export default function First() {
               <br />
               <div className="container">
                 <a
-                  href="/src/docs/Qazi Wajahat Hussain - CV.pdf"
-                  download
+                  href="/"
+                  target="blank"
                   className="btn btn-outline-danger"
                   id="buttons"
                 >
-                  Download CV
+                  View CV
                 </a>
                 <a
                   href="#ContactBody"
