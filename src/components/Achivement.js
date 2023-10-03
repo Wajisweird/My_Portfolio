@@ -14,24 +14,24 @@ export default function Achivement() {
       <br />
       <div className="container text-center" id="ct">
         <a
-          href="/src/docs/HTML and CSS in depth - META.pdf"
-          download
+          href="https://coursera.org/share/3e8e045a59d3b6bf3e90e4fa961017be"
+          target="blank"
           className="btn btn-outline-warning"
           id="buttons"
         >
           HTML5 & CSS3 in depth
         </a>
         <a
-          href="/src/docs/Intro to Front End Web Development - META.pdf"
-          download
+          href="https://coursera.org/share/34883aed046e93e172f41787e78c013b"
+          target="blank"
           className="btn btn-outline-warning"
           id="buttons"
         >
           Front-End Development - META
         </a>
         <a
-          href="/src/docs/Programming with JavaScript - META.pdf"
-          download
+          href="https://coursera.org/share/e475e4d08e84c4570eeb141a047fd4b2"
+          target="blank"
           className="btn btn-outline-warning"
           id="buttons"
         >
@@ -39,32 +39,32 @@ export default function Achivement() {
         </a>
         <br />
         <a
-          href="/src/docs/React Basic - META.pdf"
-          download
+          href="https://coursera.org/share/b3b0cc2b396c6aeb4d95c7415076214d"
+          target="blank"
           className="btn btn-outline-warning"
           id="buttons"
         >
           Basic React Js - META
         </a>
         <a
-          href="/src/docs/Advanced React - META.pdf"
-          download
+          href="https://coursera.org/share/686de6bbc0f12fa761ea835bb6e36742"
+          target="blank"
           className="btn btn-outline-warning"
           id="buttons"
         >
           Advanced React JS - META
         </a>
         <a
-          href="/src/docs/Design and Develop a Website using Figma and CSS - META.pdf"
-          download
+          href="https://coursera.org/share/b0c88869237c265f12b1a4131bff6de4"
+          target="blank"
           className="btn btn-outline-warning"
           id="buttons"
         >
-          Developing Website using Figma
+          Developing Website using Figma & CSS
         </a>
         <a
-          href="/src/docs/Version Control - META.pdf"
-          download
+          href="https://coursera.org/share/5c83874cf9cc437c67ae56d550ffc742"
+          target="blank"
           className="btn btn-outline-warning"
           id="buttons"
         >
@@ -72,16 +72,16 @@ export default function Achivement() {
         </a>
         <br />
         <a
-          href="/src/docs/UI Design.pdf"
-          download
+          href="https://coursera.org/share/03fb269ae892683e90d10680e60793f1"
+          target="blank"
           className="btn btn-outline-warning"
           id="buttons"
         >
           UI Design
         </a>
         <a
-          href="/src/docs/Build Wireframes and Low-Fidelity Prototypes.pdf"
-          download
+          href="https://www.coursera.org/account/accomplishments/verify/XZLCPMW6CMJA?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"
+          target="blank"
           className="btn btn-outline-warning"
           id="buttons"
         >
