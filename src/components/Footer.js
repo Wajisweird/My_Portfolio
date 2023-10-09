@@ -10,7 +10,6 @@ export default function Footer() {
         <p className=" mt-5">
           All Rights Reserved. &copy; 2023 . Made With ❤️ By{" "}
           <a
-            className="text-white-50"
             href="https://www.linkedin.com/in/wajahathussain17/"
             target="blank"
           >
