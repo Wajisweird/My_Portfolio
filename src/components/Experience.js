@@ -22,9 +22,11 @@ export default function Experience() {
           September 2023
         </h6>
         <h5 className="text-white ms-4">Frontend Developer-Intern</h5>
+        <a href="https://www.linkedin.com/posts/wajahathussain17_letter-of-recommendation-activity-7117210247835889665-R5ee?utm_source=share&utm_medium=member_desktop" id="nn">
         <h6 className="text-dark ms-4">
           LetsGrowMore
         </h6>
+        </a>
       </div>
       <br />
       <div className="container" id="pp">
