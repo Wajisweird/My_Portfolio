@@ -58,11 +58,7 @@ export default function First() {
                 >
                   View CV
                 </a>
-                <a
-                  href="#ContactBody"
-                  className="btn btn-danger"
-                  id="buttons"
-                >
+                <a href="#ContactBody" className="btn btn-danger" id="buttons">
                   Contact
                 </a>
               </div>

@@ -1,5 +1,6 @@
 import React from "react";
 import Nike from "../images/logo.png";
+import SpaceX from "../images/spacex.png";
 
 export default function Projects() {
   return (
@@ -10,59 +11,32 @@ export default function Projects() {
       </div>
       <h1 className="dragon text-center text-danger mt-3">PROJECTS</h1>
       <div className="container">
-        <div className="row mt-5" data-aos="fade-up" id="sam">
+        <div className="row mt-5" id="sam">
           <div className="col-4 text-white">
-            <div className="firstProject d-flex align-items-center justify-content-center">
-              <a href="https://nike-responsive-clone.vercel.app/" target="blank">
-              <img src={Nike} alt="/" />
+            <div
+              className="firstProject d-flex align-items-center justify-content-center"
+              data-aos="fade-up"
+              id="op"
+            >
+              <a
+                href="https://nike-responsive-clone.vercel.app/"
+                target="blank"
+              >
+                <img src={Nike} alt="/" />
               </a>
-              <div className="overlay">
-                <a
-                  href="https://nike-responsive-clone.vercel.app/"
-                  target="blank"
-                >
-                  <h3 className="text-center">Nike Clone</h3>
-                  <br />
-                  <p className="text-center">
-                    Responsive Nike clone using React Js and CSS framework i.e
-                    Bootstrap 5.
-                  </p>
-                </a>
-              </div>
             </div>
           </div>
-          {/* <br />
           <div className="col-4 text-white">
-            <div className="firstProject d-flex align-items-center justify-content-center">
-              <img src={Nike} alt="/" />
-              <div className="overlay">
-                <a href="/" target="blank">
-                  <h3 className="text-center">Nike Clone</h3>
-                  <br />
-                  <p className="text-center">
-                    Responsive Nike clone using React Js and CSS framework i.e
-                    Bootstrap 5.{" "}
-                  </p>
-                </a>
-              </div>
+            <div
+              className="secondProject d-flex align-items-center justify-content-center"
+              data-aos="fade-up"
+              id="op"
+            >
+              <a href="https://space-x-clone-sigma.vercel.app/" target="blank">
+                <img src={SpaceX} alt="/" />
+              </a>
             </div>
           </div>
-          <br />
-          <div className="col-4 text-white">
-            <div className="firstProject d-flex align-items-center justify-content-center">
-              <img src={Nike} alt="/" />
-              <div className="overlay">
-                <a href="/" target="blank">
-                  <h3 className="text-center">Nike Clone</h3>
-                  <br />
-                  <p className="text-center">
-                    Responsive Nike clone using React Js and CSS framework i.e
-                    Bootstrap 5.{" "}
-                  </p>
-                </a>
-              </div>
-            </div>
-          </div> */}
         </div>
       </div>
     </div>

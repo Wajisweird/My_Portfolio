@@ -26,7 +26,7 @@ export default function App() {
         <Experience />
         <Projects />
         <ContactMe />
-        {/* Bottom to Up Btn */}
+        {/* Bottom to Up Button */}
         <div className="container-fluid" id="topButton">
           <button onClick={top} className="btn btn-warning me-4">
             <i className="fa-solid fa-caret-up"></i>
