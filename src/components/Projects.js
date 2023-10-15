@@ -1,5 +1,5 @@
 import React from "react";
-import Nike from "../images/logo.png";
+import Nike from "../images/nike.png";
 import SpaceX from "../images/spacex.png";
 
 export default function Projects() {
@@ -22,7 +22,7 @@ export default function Projects() {
                 href="https://nike-responsive-clone.vercel.app/"
                 target="blank"
               >
-                <img src={Nike} alt="/" />
+                <img src={Nike} alt="/" id="oe" />
               </a>
             </div>
           </div>
