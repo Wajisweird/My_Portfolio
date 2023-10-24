@@ -5,7 +5,7 @@ export default function ContactMe() {
     <div className="container-fluid" id="ContactBody">
       <div className="container text-danger text-center">
         <br />
-        <h1 className="dots">___________________ ..</h1>
+        <h1 className="dots">.. ___________________</h1>
         <br />
         <br />
         <h1 className="dragon text-center text-warning">CONTACT ME</h1>

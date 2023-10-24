@@ -6,7 +6,7 @@ export default function Projects() {
   return (
     <div className="container-fluid" id="projectBody">
       <div className="container">
-        <h1 className="dots text-center text-danger">.. ___________________</h1>
+        <h1 className="dots text-center text-danger">___________________ ..</h1>
         <br />
       </div>
       <h1 className="dragon text-center text-danger mt-3">PROJECTS</h1>
